@@ -13,3 +13,4 @@ Flipper is a platform for debugging mobile apps on iOS and Android and, recently
 ## [Charles Proxy](https://www.charlesproxy.com/download/)
 Charles is a web proxy (HTTP Proxy / HTTP Monitor) that runs on your own computer. Your web browser (or any other Internet application) is then configured to access the Internet through Charles, and Charles is then able to record and display for you all of the data that is sent and received and it's paid tool
 ## [Proxyman](https://proxyman.io)
+Proxyman is a native, high-performance macOS app, which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease.
