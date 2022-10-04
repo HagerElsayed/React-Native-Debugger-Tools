@@ -10,5 +10,5 @@ React Native Debugger is a standalone app for debugging React Native apps also h
 ## [Flipper](https://github.com/facebook/flipper)
 Flipper is a platform for debugging mobile apps on iOS and Android and, recently, even JS apps in your browser or in Node.js. Visualize, inspect, and control your apps from a simple desktop interface. Use Flipper as is or extend it using the plugin API.
 
-##[Charles Proxy - it's paid toot] (https://www.charlesproxy.com/download/)
-##[Proxyman](https://proxyman.io)
+## [Charles Proxy - it's paid toot](https://www.charlesproxy.com/download/)
+## [Proxyman](https://proxyman.io)
