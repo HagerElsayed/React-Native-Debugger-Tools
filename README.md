@@ -4,7 +4,7 @@ React-Native-Debugger-Tools
 ## [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
 React Native Debugger is a standalone app for debugging React Native apps also help you to track the network tab and this's one which i tried
 ## [ How to debug  React Native app using React Native Debugger on YouTube](https://youtu.be/dnww7V-D2Yg)
-[![](React-Native-Debugger-Tools/banner.png)](https://youtu.be/dnww7V-D2Yg "Click to Watch!")
+[![](/banner.png)](https://youtu.be/dnww7V-D2Yg "Click to Watch!")
 
 
 ## [Flipper](https://github.com/facebook/flipper)
